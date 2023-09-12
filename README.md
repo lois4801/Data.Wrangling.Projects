@@ -1,5 +1,5 @@
 # Data.Wrangling.Projects
-Projects from different concepts Reshaping, Normalization,Group by, Data Encoding, Concatenating and Merging
+## Projects from different concepts Reshaping, Normalization,Group by, Data Encoding, Concatenating and Merging
 
 ![data1](https://github.com/lois4801/Data.Wrangling.Projects/assets/96842662/37e4e6f9-1cb7-4985-8357-3243ca82d0d3)
 
